@@ -418,8 +418,7 @@ function IntroStep({ onStart }: { onStart: () => void }) {
         </Button>
       </motion.div>
 
-      {/* Download source code button */}
-      <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1 }}>
+            <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: 1 }}>
         <a
           href="/constructor-smart-goals.zip"
           download="constructor-smart-goals.zip"
