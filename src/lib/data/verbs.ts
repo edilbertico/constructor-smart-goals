@@ -1,0 +1,32 @@
+export const verbosBloom: string[] = [
+  "Analizar",
+  "Diseñar",
+  "Implementar",
+  "Fortalecer",
+  "Desarrollar",
+  "Optimizar",
+  "Evaluar",
+  "Caracterizar",
+  "Elaborar",
+  "Consolidar",
+  "Promover",
+  "Incrementar",
+  "Reducir",
+  "Capacitar",
+  "Mejorar",
+];
+
+export const conectoresRecomendados: string[] = [
+  "mediante",
+  "a través de",
+  "con el propósito de",
+  "orientado a",
+  "para lograr",
+  "con el fin de",
+  "permitiendo",
+  "garantizando",
+  "favoreciendo",
+  "durante",
+  "antes de",
+  "hasta",
+];
